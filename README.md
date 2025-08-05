@@ -28,11 +28,10 @@ A curated list of awesome resources, scripts, and examples for macOS `sips`.
 ### 📚 Official Documentation
 
 - `man sips` - The official man page (run in Terminal)
-- [Apple Developer Docs](https://developer.apple.com/library/archive/documentation/Darwin/Reference/ManPages/man1/sips.1.html) - Online man page
-- [`CHEATSHEET.md`](CHEATSHEET.md) - Comprehensive guide with visual examples
 
 ### 📖 Guides & Tutorials
 
+- [`CHEATSHEET.md`](CHEATSHEET.md) - Comprehensive guide with visual examples
 - [macOS image manipulation with sips](https://blog.smittytone.net/2019/10/24/macos-image-manipulation-with-sips/) - In-depth tutorial
 - [Using sips for batch image processing](https://robservatory.com/use-sips-to-quickly-easily-and-freely-convert-image-files/) - The Robservatory guide
 - [sips image processing](http://xahlee.info/img/sips_image_processing.html) - Xah Lee's tutorial
