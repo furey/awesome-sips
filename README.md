@@ -1,6 +1,6 @@
 # awesome-sips [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources, scripts, and examples for macOS `sips`, a macOS cli tool for scriptable image processing without external dependencies.
+A curated list of awesome resources, scripts, and examples for `sips`, the macOS cli tool for scriptable image processing without external dependencies.
 
 ## Contents
 
